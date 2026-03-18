@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: __________YENDLURI CHANDANA______________________
+* **Register Number**: ______212223100063_______________
+* **Date of Submission**: ______10/03/2026____________
 
 ---
 
@@ -76,35 +76,26 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 ---
 
-## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
----
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EBS Volume Created
 
-(Insert Screenshot Here)
+
+<img width="1008" height="600" alt="Screenshot 2026-03-18 203539" src="https://github.com/user-attachments/assets/856e70ac-a1bd-409a-8ebb-9db1bd21e0c6" />
 
 ---
 
 ### Screenshot 2: EBS Volume Attached to EC2
 
-(Insert Screenshot Here)
+<img width="1000" height="722" alt="Screenshot 2026-03-18 203614" src="https://github.com/user-attachments/assets/5617a7be-422b-4e7e-a0f8-f65f57164210" />
 
 ---
 
 ### Screenshot 3: Mounted Volume with Data
 
-(Insert Screenshot Here)
+<img width="1008" height="600" alt="Screenshot 2026-03-18 203539" src="https://github.com/user-attachments/assets/06e18b2e-ff65-4024-ba8c-4921440807bf" />
 
 ---
 
