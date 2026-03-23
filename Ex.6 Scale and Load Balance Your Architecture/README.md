@@ -72,6 +72,15 @@ Describe step-by-step how you performed this experiment in your own words.
 
 ## Output Screenshots 
 
+<img width="1011" height="491" alt="image" src="https://github.com/user-attachments/assets/21901eb1-04e0-4496-8f59-0f5300f158d6" />
+
+
+
+<img width="1003" height="487" alt="image" src="https://github.com/user-attachments/assets/0a6d54ae-a263-4f7d-a24f-2f3309c3f015" />
+
+
+
+<img width="1018" height="495" alt="image" src="https://github.com/user-attachments/assets/e6b82978-f174-462a-818b-696fdfeb70a9" />
 
 ---
 
